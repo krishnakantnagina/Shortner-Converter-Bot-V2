@@ -20,8 +20,6 @@ Convert Any Shortner Link To Your With Post
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyniteofficial/Shortner-Converter-Bot-V2)
 
-[![Deploy](https://railway.app/button.svg)](https://railway.app/deploy?template=https://github.com/cyniteofficial/Shortner-Converter-Bot-V2)
-
 <details>
   <summary><b>Deploy to Railway</b></summary>
 <br/>
